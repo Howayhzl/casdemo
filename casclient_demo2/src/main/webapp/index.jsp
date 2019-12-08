@@ -7,8 +7,8 @@
 <title>cas client demo2</title>
 </head>
 <body>
-欢迎来到二品优购  <%=request.getRemoteUser() %>  
-
+欢迎来到二品优购  <%=request.getRemoteUser() %>
+<a href="http://localhost:9100/cas/logout?service=http://www.baidu.com">单点登录退出</a>
 
 </body>
 </html>
