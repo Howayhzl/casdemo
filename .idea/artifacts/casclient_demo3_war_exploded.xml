@@ -30,6 +30,7 @@
           <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
           <element id="library" level="project" name="Maven: org.springframework.security:spring-security-core:4.1.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.security:spring-security-config:4.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: com.alibaba:dubbo:2.8.4" />
           <element id="library" level="project" name="Maven: org.springframework.security:spring-security-cas:4.1.0.RELEASE" />
           <element id="library" level="project" name="Maven: org.jasig.cas.client:cas-client-core:3.3.3" />
           <element id="library" level="project" name="Maven: org.opensaml:opensaml:2.5.1-1" />
