@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/casclient_demo1/casclient_demo1.iml" filepath="$PROJECT_DIR$/casclient_demo1/casclient_demo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/casclient_demo2/casclient_demo2.iml" filepath="$PROJECT_DIR$/casclient_demo2/casclient_demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/casclient_demo3/casclient_demo3.iml" filepath="$PROJECT_DIR$/casclient_demo3/casclient_demo3.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/casdemo.iml" filepath="$PROJECT_DIR$/.idea/casdemo.iml" />
     </modules>
   </component>
